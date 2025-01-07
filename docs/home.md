@@ -16,3 +16,7 @@
 
 ### Week 5 Slides to be Discussed
 [Usability Testing](https://www.google.ca/slides/about/)
+
+### Example Empty iFrame
+
+<iframe src="https://demo_iframe.htm" height="200" width="300" title="Iframe Example"></iframe>
