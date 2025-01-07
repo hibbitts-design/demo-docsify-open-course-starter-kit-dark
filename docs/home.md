@@ -17,6 +17,6 @@
 ### Week 5 Slides to be Discussed
 [Usability Testing](https://www.google.ca/slides/about/)
 
-### Example Empty iFrame
+### Example iFrame with Transparent Background Image
 
-<iframe height="200" width="300" title="Iframe Example"></iframe>
+<iframe src="/images/ux-toolkit-8-no-numbers-transparent.png" height="200" width="300" title="Iframe Example"></iframe>
