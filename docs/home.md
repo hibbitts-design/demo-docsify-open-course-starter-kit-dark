@@ -19,4 +19,4 @@
 
 ### Example iFrame with Transparent Background Image
 
-<iframe src="/images/ux-toolkit-8-no-numbers-transparent.png" height="200" width="300" title="Iframe Example"></iframe>
+<iframe src="https://paulhibbitts.net/images/ux-toolkit-8-no-numbers-transparent.png" height="200" width="300" title="Iframe Example"></iframe>
