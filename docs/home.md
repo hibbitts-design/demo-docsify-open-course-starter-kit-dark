@@ -19,4 +19,4 @@
 
 ### Example Empty iFrame
 
-<iframe src="https://demo_iframe.htm" height="200" width="300" title="Iframe Example"></iframe>
+<iframe height="200" width="300" title="Iframe Example"></iframe>
