@@ -1,6 +1,6 @@
 # Changelog
 
-## [v2.0.1](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v2.0.1)
+## [v2.1.0](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v2.1.0)
 ### XX/XX/2026
 
 **Improved:**
@@ -14,6 +14,7 @@
 * Enable crossChapter and use a patched pagination plugin that skips external links
 * Show pagination page names when the sidebar is hidden, with smaller titles on phones
 * Give long navbars (6 or more links) room for their extra rows on phones
+* Support a top Edit this Page link below full-width header images
 
 **Bugfix:**
 * Replaced icongr.am icons with Iconify API (Font Awesome 6)
