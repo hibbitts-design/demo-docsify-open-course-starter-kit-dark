@@ -82,6 +82,12 @@ body {
   font-weight: bold;
 }
 
+/* A bold first line in a sidebar (for example **Guide Name** or **Course Name** at the top of a _sidebar.md)
+   is a little larger, so it reads as a label for the list and stands apart from the bold current page */
+.sidebar-nav > p:first-child > strong:only-child {
+  font-size: 1.1em;
+}
+
 .pagination-item a .pagination-item-label,
 .pagination-item a .pagination-item-subtitle,
 .pagination-item a .pagination-item-title {
@@ -98,6 +104,12 @@ body {
 }
 
 .markdown-section {
+  margin-top: 1.4rem;
+}
+
+/* With an empty navbar, the same top margin as with no navbar (docsify-v5-core.css hides the empty navbar).
+   "html" makes this win over docsify-v5-core.css's rule, which some setups load after this file */
+html body:has(.app-nav:empty) .markdown-section {
   margin-top: 1.4rem;
 }
 
